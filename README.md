@@ -1,4 +1,5 @@
 About Section-
+<br>
 I am a highly motivated 16-year-old developer and tech innovator with a strong foundation in Python and SQL. Combining technical expertise with a passion for emerging technologies, I actively contribute to the tech ecosystem as a Windows Insider Beta Tester. My deep analytical mindset earned me a Gold Medal in the National Science Olympiad, demonstrating a strong capacity for high-level problem-solving. Outside of coding, I am an active content creator and networker, successfully building an engaged professional community of 5,000+ followers on LinkedIn.
 
 
