@@ -1,6 +1,6 @@
 About-
-<br
-At 16, I am not just observing the future of technology—I am actively building it. As a developer and tech innovator, I explore emerging technologies. My analytical capabilities were recognized with a Gold Medal in the SOF National Science Olympiad, a testament to my dedication to high-level problem-solving.<br>Beyond my technical projects, I contribute to the global tech ecosystem as a Windows Insider Beta Tester, helping refine the software used by millions. I am also deeply committed to community building; as a content creator, I have cultivated a professional network of over 5,000+ followers on LinkedIn. I thrive at the intersection of technical precision and digital networking, always looking for the next challenge to tackle.<br>
+<br>
+At 16, I am not just observing the future of technology—I am actively building it. As a developer and tech innovator, I explore emerging technologies. My analytical capabilities were recognized with a Gold Medal in the SOF National Science Olympiad, a testament to my dedication to high-level problem-solving.<br>Beyond my technical projects, I contribute to the global tech ecosystem as a Windows Insider Beta Tester, helping refine the software used by millions. I am also deeply committed to community building; as a content creator, I have cultivated a professional network of over 5,000+ followers on LinkedIn. I thrive at the intersection of technical precision and digital networking, always looking for the next challenge to tackle.<br><br>
 
 
 Socials-
